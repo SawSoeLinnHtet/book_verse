@@ -24,3 +24,7 @@ Run all the commands step by step to setup **Book Verse** Project
 
 - `php artisan db:seed`
 
+## UI Setup
+
+- `npm install`
+- `npm run dev`
